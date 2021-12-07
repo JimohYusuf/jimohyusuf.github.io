@@ -1,2 +1,2 @@
 # jimohyusuf.github.io
-Personal Website at [jimohyusuf.com](https://jimohyusuf.com).
+Personal website at [jimohyusuf.com](https://jimohyusuf.com).
